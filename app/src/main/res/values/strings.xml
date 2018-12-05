@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">门禁系统</string>
+    <string name="net_connect_err">网络连接异常</string>
+    <string name="company">单位</string>
+    <string name="department">部门</string>
+    <string name="position">职位</string>
+    <string name="job_number">工号</string>
+    <string name="read_result">识别结果</string>
+</resources>
